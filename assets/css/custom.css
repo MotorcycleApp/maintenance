@@ -15,3 +15,29 @@
 	background-color: #6CA2FF;
     border-color: #E7E7E7;
 }
+
+.navhead {
+	padding: 35px;
+}
+
+.bg {
+
+    background-image: url("../img/bg.jpeg");
+    background-color: #cccccc;
+    backgroundopacity: 0.2;
+
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: gray;
+   color: white;
+   text-align: center;
+}
+
+.sub {
+      background-color: #cccccc;
+}
