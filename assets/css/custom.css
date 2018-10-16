@@ -17,14 +17,16 @@
 }
 
 .navhead {
-	padding: 35px;
+
 }
 
 .bg {
 
-    background-image: url("../img/bg.jpeg");
+    background-image: url("../img/background.jpg");
     background-color: #cccccc;
-    backgroundopacity: 0.2;
+    opacity: 1;
+     background-repeat: repeat-y;
+      background-repeat: repeat-x;
 
 }
 
@@ -39,5 +41,5 @@
 }
 
 .sub {
-      background-color: #cccccc;
+    color: gray;
 }
